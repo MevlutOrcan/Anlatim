@@ -13,6 +13,7 @@ public class AmazonStepDefinitions {
     public void userGoesTo(String arg0) {
         System.out.println("aklsdn");
         System.out.println("ikinci islem");
+        System.out.println("extra islem");
         System.out.println("ikinci islemin devami");
         System.out.println("yenisurum");
     }
