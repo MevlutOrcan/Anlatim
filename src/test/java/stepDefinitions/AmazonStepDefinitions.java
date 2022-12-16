@@ -12,6 +12,8 @@ public class AmazonStepDefinitions {
     @Given("User goes to {string}")
     public void userGoesTo(String arg0) {
         System.out.println("aklsdn");
+        System.out.println("ikinci islem");
+        System.out.println("ikinci islemin devami");
 
     }
 
