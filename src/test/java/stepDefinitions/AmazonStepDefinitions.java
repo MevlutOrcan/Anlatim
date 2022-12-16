@@ -14,7 +14,7 @@ public class AmazonStepDefinitions {
         System.out.println("aklsdn");
         System.out.println("ikinci islem");
         System.out.println("ikinci islemin devami");
-
+        System.out.println("yenisurum");
     }
 
     @Then("User verify Amazon URL is {string}")
