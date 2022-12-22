@@ -19,7 +19,7 @@ public class AmazonStepDefinitions {
         System.out.println("yenisurum");
         System.out.println("stash");
         System.out.println("stash2");
-
+        System.out.println("asdfghj");
 
     }
 
